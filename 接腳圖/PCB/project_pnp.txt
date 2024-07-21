@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=project
+*Date=19:36:36
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;3V;;3.10521;-39.7107;180;Bottom;Power2
+2;;;134.259;-4.6901;90;Bottom;GPS
+3;;;105.975;-11.7707;90;Bottom;CCS811
+4;;;25.454;-63.6606;90;Bottom;microSD1
+5;3V;;3.10521;-30.8207;180;Bottom;Power1
+6;3V;;3.10521;-47.3307;180;Bottom;Fan
+7;;;23.1354;-14.7797;0;Bottom;DS3231
+8;;;113.837;-51.6995;180;Top;ESP32
+9;;;72.9552;-29.5506;-90;Bottom;Mega2560 Pro Mini
+10;3V;;42.4752;-26.7567;0;Bottom;ESP32
+11;;;81.681;-68.1901;90;Bottom;PMS5003t
+12;;;136.995;-21.7663;0;Bottom;HMI
+13;3.6 - 5.5 V;;23.9156;-38.1763;0;Bottom;SenseAir S8
+14;;;121.755;-9.39495;180;Bottom;DHT22
